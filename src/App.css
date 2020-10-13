@@ -4,4 +4,13 @@
 }
 .morning{
   background-color: darkorange;
+  padding: 30px;
+}
+.night{
+  background-color: darkslategray;
+  padding: 30px;
+}
+.day{
+  background-color: indigo;
+  padding: 30px;
 }
